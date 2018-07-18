@@ -17,9 +17,9 @@
 1. 닥터 스트레인지
 
 #### 코드 작성
-,,,
-func sayHello(){
+```
+func sayHello() {
 print("Hello World")
 }
-,,,
+```
 
